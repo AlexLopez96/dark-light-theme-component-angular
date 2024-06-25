@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+
+
+/*
+Example for custom colors for light or dark theme. Only change [data-bs-theme="light"] to dark for dark mode style.
+
+$backgroundColor: #f7f7f7;
+$dark: #000;
+
+[data-bs-theme="light"] body{
+  background-color: $backgroundColor;
+  color: $dark;
+}
+*/
